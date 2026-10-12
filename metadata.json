@@ -1,0 +1,6 @@
+{
+  "name": "Tư Duy Bot",
+  "description": "Trợ lý trí tuệ nhân tạo gợi mở tư duy theo phương pháp Socrates: không đưa ra đáp án ngay mà khơi gợi dẫn dắt, nhận xét suy luận và đúc kết chốt vấn đề.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
